@@ -35,3 +35,9 @@ print(capitals)
 capitals.update({'Malaysia':'Kuala Lumpur'})
 print(capitals)
 print(capitals.get('Australia','Not in dict'))
+
+
+print(len("Inceptez Technologies"))
+print(len(["Inceptez","Technologies"]))
+print(len({"Name":"Inceptez","Type":"Technologies"}))
+
